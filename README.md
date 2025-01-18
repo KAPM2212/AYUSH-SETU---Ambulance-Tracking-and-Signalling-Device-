@@ -1,0 +1,2 @@
+# AYUSH-SETU---Ambulance-Tracking-and-Signalling-Device-
+The project tackles ambulance delays in traffic jams by creating an automatic green corridor. Sound sensor detects the ambulance siren and sends a signal to an Arduino, acting as the central CPU. The Arduino processes the input and activates LEDs, simulating traffic signals to clear the path for the ambulance. Ensures faster medical response times.
